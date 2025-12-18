@@ -3,8 +3,7 @@
 - 🔭 I'm working on an endless orc runner game right now, developed using visual studio and OpenGL's game engine.
 - 🌱 I'm currently learning Unity development with C#
 - 🧠 Skills: C#, Python, C++, Java, Django, HTML, API integration, Databases.
-  
 - 📫 How to reach me: rahulvenkateswaran12@gmail.com
 - 🔍 Link to [LinkedIn profile](https://www.linkedin.com/in/rahul-venkateswaran-tech/)
-- <img src = "https://github-readme-stats.vercel.app/api?username=Rahul-Venkateswaran12"/>
-- [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul-Venkateswaran12&layout=compact)](https://github.com/Rahul-Venkateswaran12/github-readme-stats&layout=compact)
+<img alt = "My Stats" align="left" width="45%" src= "https://github-readme-stats.vercel.app/api?username=Rahul-Venkateswaran12"/>
+<img alt = "My Languages" align="right" width="45%" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul-Venkateswaran12&layout=compact"/>
