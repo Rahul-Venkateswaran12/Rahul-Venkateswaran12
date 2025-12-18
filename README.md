@@ -4,7 +4,7 @@
 - 🌱 I'm currently learning Unity development with C#
 - 🧠 Skills:
 -    C#, Python, C++, Java, Django, HTML, API integration, Databases.
-- <img src = "https://github-readme-stats.vercel.app/api?username=Rahul-Venkateswaran12"
+- <img src = "https://github-readme-stats.vercel.app/api?username=Rahul-Venkateswaran12"/>
 
 - 📫 How to reach me: rahulvenkateswaran12@gmail.com
 - 🔍 Link to [LinkedIn profile](https://www.linkedin.com/in/rahul-venkateswaran-tech/)
