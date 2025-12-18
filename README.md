@@ -7,3 +7,4 @@
 - 📫 How to reach me: rahulvenkateswaran12@gmail.com
 - 🔍 Link to [LinkedIn profile](https://www.linkedin.com/in/rahul-venkateswaran-tech/)
 - <img src = "https://github-readme-stats.vercel.app/api?username=Rahul-Venkateswaran12"/>
+- [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul-Venkateswaran12)](https://github.com/Rahul-Venkateswaran12/github-readme-stats)
