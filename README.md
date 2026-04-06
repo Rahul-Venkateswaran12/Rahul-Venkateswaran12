@@ -5,5 +5,3 @@
 - 🧠 Skills: C#, Python, C++, Java, Django, HTML, API integration, Databases.
 - 📫 How to reach me: rahulvenkateswaran12@gmail.com
 - 🔍 Link to [LinkedIn profile](https://www.linkedin.com/in/rahul-venkateswaran-tech/)
-<img alt = "My Stats" align="left" width="45%" src= "https://github-readme-stats.vercel.app/api?username=Rahul-Venkateswaran12"/>
-<img alt = "My Languages" align="right" width="45%" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul-Venkateswaran12&layout=compact"/>
